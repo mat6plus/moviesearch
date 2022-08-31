@@ -24,7 +24,7 @@ const App = () => {
 
     return (
         <div className="app">
-            <h1>Movie Empire Project</h1>
+            <h1>Movie Empire React Project</h1>
             <div className="search">
                 <input 
                     placeholder="Search for your favorite movies"
